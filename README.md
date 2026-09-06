@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./cube.gif" alt="rotating ascii cube" width="240" />
+  <img src="./animation.gif" alt="rotating ascii cube" width="240" />
 </p>
 
 <h3 align="center">Mahender</h3>
